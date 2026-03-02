@@ -1,0 +1,5 @@
+{
+  "name": "Remix: 薪资管理系统 (Salary Management System)",
+  "description": "一个专业且高效的员工薪资管理系统，支持有责底薪、阶梯式绩效提成计算，并支持导出月度报表。",
+  "requestFramePermissions": []
+}
